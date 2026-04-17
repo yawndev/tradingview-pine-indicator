@@ -16,29 +16,29 @@ Alerts — уведомления через TradingView на email, Telegram, w
 
 Скриншоты
 
-<img width="1275" height="646" alt="image" src="https://github.com/user-attachments/assets/22870ada-479d-4356-a3a9-adbb5059b460" />
+<img width="1275" height="621" alt="BTCUSDT_2026-04-17_21-37-29" src="https://github.com/user-attachments/assets/d926ea54-6ae9-4281-a4cd-5dde119d260a" />
 
 
+<img width="1275" height="622" alt="ETHUSDT P_2026-04-17_21-38-32" src="https://github.com/user-attachments/assets/45e9c9ec-2341-449a-b780-ec0b6b72ce81" />
+
+<img width="1275" height="621" alt="AAVEUSDT P_2026-04-17_21-40-08" src="https://github.com/user-attachments/assets/1952de6f-ad0c-4506-9b8e-802119f7612b" />
 
 
-Технологии
-
+Технологии:
 Pine Script v5
 Платформа: TradingView
 Публикация: Invite-Only (приватный доступ)
 
 Услуги
-Разрабатываю индикаторы и торговые стратегии на Pine Script под заказ:
+Разрабатываю индикаторы на Pine Script под заказ:
 
 Кастомные индикаторы по ТЗ
-Перенос стратегий из Python/MQL в Pine Script
 Оптимизация существующих скриптов
 Настройка Alert-ов и автоторговли через webhook
 
 Контакты
 
-Telegram: @твой_ник
-Email: yawn52260@gmail.com
+Telegram: @yaroslav_blog1
 
 
 Исходный код закрыт. Для обсуждения заказов — в Telegram.
